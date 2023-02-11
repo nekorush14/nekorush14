@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-### Stats
+### Stats and MUL
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l10es&count_private=true&show_icons=true&theme=tokyonight)
-
-### MUL
-
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l10es&layout=compact&theme=tokyonight)
 
 <!--
