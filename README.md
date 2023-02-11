@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l10es&count_private=true&show_icons=true&theme=tokyonight)
+
+### MUL
+
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l10es&layout=compact&theme=tokyonight)
+
 <!--
 **l10es/l10es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
