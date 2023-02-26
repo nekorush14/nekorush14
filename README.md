@@ -7,7 +7,7 @@
 
 ## Certifications
 
-<img src="./assets/AWS-Certified-Cloud-Practitioner-certificate.png" width="450" height="350">
+<img src="./assets/AWS Certified Cloud Practitioner certificate.png" width="450" height="347.727">
 
 <!--
 **l10es/l10es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
