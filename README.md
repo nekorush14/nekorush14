@@ -10,8 +10,8 @@
 ## Certifications
 
 <p>
-  <img src="./assets/AWS Certified Cloud Practitioner certificate.png" width="450" height="347.727">
-  <img src="./assets/AWS Certified Cloud Practitioner certificate.png" width="450" height="347.727">
+  <a href="https://www.credly.com/badges/8b1f1d8d-889f-4c3d-9710-24480a291318/public_url"><img src="./assets/aws-certified-cloud-practitioner.png" width="200" height="200"></a>
+  <a href="https://www.credly.com/badges/304aff9a-8e2f-4ec9-982d-3356f1df0328/public_url"><img src="./assets/aws-certified-solutions-architect-associate.png" width="200" height="200"></a>
 </p>
 
 <!--
