@@ -9,10 +9,13 @@
 
 ## Certifications
 
-<img src="./assets/AWS Certified Cloud Practitioner certificate.png" width="450" height="347.727">
+<p>
+  <img src="./assets/AWS Certified Cloud Practitioner certificate.png" width="450" height="347.727">
+  <img src="./assets/AWS Certified Cloud Practitioner certificate.png" width="450" height="347.727">
+</p>
 
 <!--
-**l10es/l10es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nekorush14/nekorush14 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
