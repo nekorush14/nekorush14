@@ -3,8 +3,8 @@
 <!--
 ## Stats and MUL
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekorush14&count_private=true&show_icons=true&theme=github_dark)
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekorush14&layout=compact&theme=github_dark)
+![GitHub Stats](https:/github-readme-stats-mu-steel.vercel.app/api?username=nekorush14&count_private=true&show_icons=true&theme=github_dark)
+![GitHub Top Languages](https:/github-readme-stats-mu-steel.vercel.app//api/top-langs/?username=nekorush14&layout=compact&theme=github_dark)
 -->
 
 ## Certifications
