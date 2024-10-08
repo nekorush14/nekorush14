@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-<!--
+
 ## Stats and MUL
 
-![GitHub Stats](https:/github-readme-stats-mu-steel.vercel.app/api?username=nekorush14&count_private=true&show_icons=true&theme=github_dark)
-![GitHub Top Languages](https:/github-readme-stats-mu-steel.vercel.app//api/top-langs/?username=nekorush14&layout=compact&theme=github_dark)
--->
-
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https:/github-readme-stats-mu-steel.vercel.app/api?username=nekorush14&count_private=true&show_icons=true&theme=github_dark" />
-  <img alt="github stats" height="150px" src="https:/github-readme-stats-mu-steel.vercel.app//api/top-langs/?username=nekorush14&count_private=true&layout=compact&theme=github_dark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-mu-steel.vercel.app/api?username=nekorush14&count_private=true&show_icons=true&theme=github_dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-mu-steel.vercel.app/api/top-langs/?username=nekorush14&count_private=true&layout=compact&theme=github_dark" />
 </p>
 
 ## Certifications
