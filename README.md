@@ -19,7 +19,7 @@
 
 ![](https://skillicons.dev/icons?i=cs,python,typescript,angular,dotnet,aws,gitlab,docker,postgres) and SQLServer
 
-## Skils (on Private and Hobby)
+## Skils (on Student/Private and Hobby)
 
 ![](https://skillicons.dev/icons?i=java,rails,flutter,tensorflow,gcp)
 
