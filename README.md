@@ -12,8 +12,8 @@
 
 <p>
   <a href="https://www.credly.com/badges/8b1f1d8d-889f-4c3d-9710-24480a291318/public_url"><img src="./assets/aws-certified-cloud-practitioner.png" width="100" height="100"></a>
-  <a href="https://www.credly.com/badges/304aff9a-8e2f-4ec9-982d-3356f1df0328/public_url"><img src="./assets/aws-certified-solutions-architect-associate.png" width="100" height="100"></a>
   <a href="https://www.credly.com/badges/2c9a538c-ffba-4083-bdb9-da96ca6235c0/public_url"><img src="./assets/aws-certified-ai-practitioner.png" width="100" height="100"></a>
+  <a href="https://www.credly.com/badges/304aff9a-8e2f-4ec9-982d-3356f1df0328/public_url"><img src="./assets/aws-certified-solutions-architect-associate.png" width="100" height="100"></a>
   <br />
   <a href="https://www.credly.com/badges/7607691a-6fce-4a1e-b689-ff3da2c49410/public_url"><img src="./assets/aws-certified-ai-practitioner-early-adopter.png" width="100" height="100"></a>
 </p>
